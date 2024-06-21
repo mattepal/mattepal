@@ -13,14 +13,6 @@ Benvenuto nel mio profilo GitHub!
 
 # 🔧 Competenze Tecniche
 
-Linguaggi di programmazione: Java, Python, C
-
-Sviluppo Web: HTML, CSS, JavaScript, Node.js
-
-Database: MySQL
-
-Strumenti e Tecnologie: Git, Docker, Linux
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattepal&theme=tokyonight)
 
 
