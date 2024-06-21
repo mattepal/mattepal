@@ -21,19 +21,6 @@ Database: MySQL
 
 Strumenti e Tecnologie: Git, Docker, Linux
 
-# 🚀 Progetti
-
-Ecco alcuni dei progetti su cui ho lavorato:
-
-# 🌱 Attualmente sto studiando
-
-elettronica
-
-sistemi operativi 
-
-ricerca operativa
-
-programmazione ad oggetti
 
 
 # 📫 Contattami
