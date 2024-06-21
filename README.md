@@ -1,7 +1,7 @@
 # Ciao, sono Matteo Paletti! 👋
 Benvenuto nel mio profilo GitHub!
 
-#👨‍🎓 Informazioni su di me
+# 👨‍🎓 Informazioni su di me
 
 🎓 Università: Università degli Studi di Modena e Reggio Emilia (Unimore)
 
@@ -36,7 +36,7 @@ ricerca operativa
 programmazione ad oggetti
 
 
-#📫 Contattami
+# 📫 Contattami
 
 Email: mpaletti04@gmail.com
 
