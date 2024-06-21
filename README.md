@@ -21,11 +21,11 @@ Database: MySQL
 
 Strumenti e Tecnologie: Git, Docker, Linux
 
-🚀 Progetti
+# 🚀 Progetti
 
 Ecco alcuni dei progetti su cui ho lavorato:
 
-🌱 Attualmente sto studiando
+# 🌱 Attualmente sto studiando
 
 elettronica
 
